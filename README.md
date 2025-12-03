@@ -39,7 +39,7 @@ I focus on building efficient, scalable systems that support and empower other d
 
 ## Work Experience
 
-### **Byte Software**  
+### **Byte Software™**  
 **Founder & Head Developer** (2025 - Present)  
 Developing and maintaining an open-source platform that provides high-quality developer tools, automation utilities, and scripting resources.
 
