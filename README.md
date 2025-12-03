@@ -11,7 +11,7 @@
   <a href="https://discord.gg/CC4Tgft5w7">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:byt3c0de@bytesoftware.net">
+  <a href="mailto:support@bytesoftware.net">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
   </a>
 </p>
